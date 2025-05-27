@@ -39,7 +39,7 @@ const schoolInfo = {
 }
 
 const personInfo = {
-  name : '철수',
+  name : '영희',
   ...schoolInfo, //schoolInfo의 값을 풀어서 배치한다.
   age : 17
 }
